@@ -1,1 +1,1 @@
-Learing git right now.
+Learning git right now.
